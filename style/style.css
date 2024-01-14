@@ -1,0 +1,115 @@
+body{
+    margin: 10px;
+}
+.hero{
+    background-image: url('../image/Banner\ Image.png');
+    width: 1800x;
+    height: 600px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-position:center;
+    border-radius: 16px;
+    
+}
+.heading-4{
+color: #FFF;
+text-align: center;
+font-size: 38px;
+font-weight: 400;
+padding:80px 70px 80px 90px ;
+}
+.heading-2{
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;  
+padding:10px 0px 500px 0px ; 
+}
+ .h1{
+color: #F00;
+text-align: center;
+font-size: 88px;
+font-weight: 700;
+}
+.dis{
+color: #F00;
+text-align: center;
+font-size: 50px;
+font-weight: 700;
+}
+.para{
+color: #F00;
+text-align: center;
+font-size: 24px;
+font-weight: 500;
+}
+.categories{
+color: #070211;
+text-align: center;
+font-size: 48px;
+font-weight: 700;
+
+}
+div{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+.pic-3{
+    background-image: url(../image/Vectorrr.png);
+    width: 1320px;
+height: 600px;
+}
+.bold{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 100px; 
+    letter-spacing: 7.04px; 
+    /* text-align: left; */
+    padding: 100px 500px 200px 50px;
+    
+}
+.btn{
+    display:flex;
+}
+.hero-2{
+    background-image: url('../image/Vectorrr.png');
+    width:1320px;
+    height:600px;
+}
+.group-1{
+    width: 83.296px;
+    height: 67.907px; 
+}
+.welcome{
+    color: #FFF;
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: 7.04px; 
+}
+.title{
+color:#FFF ;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+}
+.para-1{
+color: rgba(255, 255, 255, 0.80);
+font-size: 25px;
+line-height: 30px; 
+}
+.heading{
+    color: #FFF;
+    text-align: center;
+    font-size:30px;
+    font-weight : 700;
+    line-height: normal;
+    text-transform: uppercase; 
+}
+
+    
